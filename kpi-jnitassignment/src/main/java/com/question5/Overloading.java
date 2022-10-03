@@ -16,6 +16,6 @@ public class Overloading {
  * Java does not allow multiple inheritance where one class can inherit
  *  properties from more than one class it is know as diamond problem
  *  to solve a diamond problem and achieve multiple inheritance we use interface
- *  in java 
+ *  in java so it needs a method overriding 
  *   
  * */
